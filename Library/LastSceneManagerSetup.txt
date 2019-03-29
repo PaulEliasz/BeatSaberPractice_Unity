@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/LightSaber_part1.unity
+  isLoaded: 1
+  isActive: 1
